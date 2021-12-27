@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_ekle"
+        android:orderInCategory="106"
+
+        app:showAsAction="always"
+        android:icon="@drawable/create" />
+
+
+    <item
+        android:id="@+id/item_cikis"
+        android:orderInCategory="105"
+        android:title="Çıkış" />
+
+</menu>

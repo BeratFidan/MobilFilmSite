@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "176416558391",
+    "firebase_url": "https://urunlerprojesi-76c47.firebaseio.com",
+    "project_id": "urunlerprojesi-76c47",
+    "storage_bucket": "urunlerprojesi-76c47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176416558391:android:e35d8045f7dc3058ac9eb2",
+        "android_client_info": {
+          "package_name": "com.example.beratfidanfinaluygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176416558391-66mh8sl0gohn9i46a4c5eiqe21vngjjo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beratfidanfinaluygulamasi",
+            "certificate_hash": "ee3be40697e62ad42a4c14a0d532510dc101177d"
+          }
+        },
+        {
+          "client_id": "176416558391-v1qlb4vf6o6rohbp7asp15mlo8io7rsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz025jfNhNVZlRddaPhhReuxUrC_iKh1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176416558391-v1qlb4vf6o6rohbp7asp15mlo8io7rsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
